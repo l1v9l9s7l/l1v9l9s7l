@@ -3,6 +3,5 @@
 
 <h3>About me:</h3>
 <img src="https://www.codewars.com/users/l1v9l9s7l/badges/small">
-https://www.codewars.com/users/l1v9l9s7l/badges/small
 
 
