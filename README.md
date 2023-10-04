@@ -9,6 +9,10 @@
 - Git
 - Адаптивная вёрстка, Grid Layout
 - Основы JS
-
+- Webpack
+- Работа с API
+- React, Redux, React DnD
+- WebSocket
+- TypeScript
 
 
