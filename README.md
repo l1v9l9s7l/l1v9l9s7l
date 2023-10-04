@@ -7,7 +7,7 @@
 <img src="https://www.codewars.com/users/l1v9l9s7l/badges/small">
 <h4>🪐 Стек изученных технологий:</h4>
 
-<p vertical-align="middle">- HTML, CSS<img padding-top="10px" height="20px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></p>
+- HTML, CSS
 - БЭМ
 - Git
 - Адаптивная вёрстка, Grid Layout
