@@ -36,4 +36,11 @@
 
 - Разработка Android/IOS приложений (React Native)
 
+<h3>📟 Мои контакты:</h3>
+
+<div>
+  <a href="https://t.me/l1v9l9s7l"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG" /></a>
+</div>
+
+
 
