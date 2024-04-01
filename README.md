@@ -1,5 +1,5 @@
 <h1 style="color:black" align="center">Приветствую, меня зовут Владислав 🌚</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B526F7&random=false&width=435&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=983EF7&center=true&random=false&width=435&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 
 <h3>💂‍♂️ Немного обо мне:</h3>
 На данный момент являюсь студентом "Яндекс Практикума" по специальности разработчика полного цикла :)
